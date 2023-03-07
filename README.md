@@ -30,5 +30,5 @@ https://jcy.georgetown.domains/560/_site/intro.html
 ## Project 5: Chinese News Classification (Nov 2022)
 Concentration: NLP & deep learning
 
-
+https://github.com/ChenyueJin2000/Projects/blob/main/Chinese_news_classification.ipynb
 
