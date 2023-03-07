@@ -26,3 +26,9 @@ Concentration: Time Series Data Analysis
 (Still working on)
 
 https://jcy.georgetown.domains/560/_site/intro.html
+
+## Project 5: Chinese News Classification (Nov 2022)
+Concentration: NLP & deep learning
+
+
+
