@@ -1,3 +1,6 @@
+# Resume
+https://github.com/ChenyueJin2000/Projects/blob/main/resume_ChenyueJin.pdf
+
 # Projects
 My personal profile: https://jcy.georgetown.domains/
 
