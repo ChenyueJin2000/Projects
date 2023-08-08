@@ -26,8 +26,6 @@ https://jcy.georgetown.domains/fall-2022-reddit-big-data-project-project-group-3
 ## Project 4: Smartphone Industry Analysis (Feb 2023 - May 2023)
 Concentration: Time Series Data Analysis
 
-(Still working on)
-
 https://jcy.georgetown.domains/560/_site/intro.html
 
 ## Project 5: Bank Customer Churn Prediction Analysis (Nov 2021)
